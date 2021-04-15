@@ -11,9 +11,14 @@ The show is a collaboration between Wisconsin Humanities and Love Wisconsin and 
 
 Learn more on the [Wisconsin Humanities website](https://wisconsinhumanities.org/podcast/).
 
+<!--
 Listen in | [Apple](https://pod.link/human-powered.apple) | [Spotify](https://pod.link/human-powered.spotify) | [Google](https://pod.link/human-powered.google) | [Overcast](https://pod.link/human-powered.overcast) | [More](https://pod.link/human-powered)
+-->
 
+<!--
 ---
 {: data-content="artwork"}
 ![](https://storage.buzzsprout.com/variants/n9z00eu3wyps0ln794ou6wqm4ylc/f81607a3cd537406cf0cf506c726bfe2824c5e584c9e9dc5e04e42436c820a79.jpg)
+
+-->
 
