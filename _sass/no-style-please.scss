@@ -67,6 +67,7 @@ li { margin: 0.4rem 0; }
 hr {
   text-align: center;
   border: 0;
+  font-family: Inconsolata;
 
   &:before { content: '/////' }
   &:after { content: attr(data-content) '/////' }
