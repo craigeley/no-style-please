@@ -2,37 +2,40 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: info
-    entries:
-      - title: a (nearly) no-CSS, fast, minimalist Jekyll theme.
-      - title: github repo
-        url: https://github.com/riggraz/no-style-please
-      - title: "used by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>"
-
-  - title: all posts
+  - title: production work
+    url: soundworks.html
     post_list:
+      category: client
       limit: 5
       show_more: true
-      show_more_text: See archive...
-      show_more_url: archive.html
-
-  - title: posts by category
+      show_more_text: See more...
+      show_more_url: soundworks.html
+  
+  - title: writing
+    url: writing.html
     post_list:
-      category: example2
+      category: blog
+      limit: 5
       show_more: true
-      show_more_text: See more posts...
-      show_more_url: example2-archive.html
+      show_more_text: Read more...
+      show_more_url: writing.html
+
+  - title: podcast
+    url: podcast.html
+    post_list:
+      category: podcast
+      limit: 5
+      show_more: true
+      show_more_text: Listen more...
+      show_more_url: podcast.html
+  
+  - title: About
+    url: about
+    entries:
+      - title: Twitter
+        url: https://twitter.com/craigeley
+      - title: Instagram
+        url: https://www.instagram.com/fieldnoise/  
 
   - title: rss
     url: feed.xml
-  
-  - title: another list
-    entries:
-      - title: with subitems
-        entries:
-          - title: with subsubitems
-          - title: example page
-            url: about
-  - title: PRO TIP
-    entries:
-      - title: to edit this menu, edit _data/menu.yml file
