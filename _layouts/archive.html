@@ -10,4 +10,9 @@ layout: default
     {{ page.content | markdownify }}
 {%- endif -%}
 
+{% if page.dated == false %}
+    {%-include post_list_nodate.html category=page.which_category-%}
+{% else %}
 {%-include post_list.html category=page.which_category-%}
+{% endif %}
+
