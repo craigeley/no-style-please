@@ -2,6 +2,7 @@
 layout: post
 category: blog
 title: "The Sound of Science: An Interview about the Folkways Science Series"
+tags: interview audio folkways
 ---
 
 [Moe Asch](https://en.wikipedia.org/wiki/Moses_Asch) wanted to record everything. So when he started Folkways Records in 1949, he didn't act like a major label record executive---he acted like an archivist. He didn't charge musicians to use his recording studio---you could just walk in. His records didn't come in glossy packaging---they came in rough cardboard and plastic sleeves with photocopied liner notes. And he wasn't just interested in folk music, or even "music" at all. He wanted to have recordings of animals and car races and steam locomotives and kids singing at summer camp:

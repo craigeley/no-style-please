@@ -2,6 +2,7 @@
 layout: post
 category: blog
 title: "Seventy Years of Listening Underwater"
+tags: audio underwater whalesong
 ---
 <audio controls="" style="width:100%" src="http://field-noise-assets.s3-us-east-2.amazonaws.com/Roger-Payne-Songs-of-a-Humpback-Whale-Field-Noise-Remix-.mp3"> 
 Can’t see the player? <a href="https://tinyletter.com/fieldnoise/archive"> Listen online.</a>
