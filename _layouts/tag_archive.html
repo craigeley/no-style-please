@@ -1,0 +1,20 @@
+---
+layout: default
+---
+
+{%-include back_link.html-%}
+
+<h1>Archive of posts tagged "{{ page.title }}"</h1>
+
+<ul>
+{%- for post in page.posts -%}
+	<li>
+	  <span>{{- post.date | date: site.theme_config.date_format -}}</span>
+	  {% if site.theme_config.lowercase_titles == true %}
+	  <a href="{{ post.url | relative_url }}">{{ post.title | downcase }}</a>
+	  {% else %}
+	  <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+	  {% endif %}
+	</li>
+{%- endfor -%}
+</ul>
