@@ -4,3 +4,5 @@ source "https://rubygems.org"
 gemspec
 
 gem "jekyll-ftp", "~> 0.2.0"
+
+gem "jekyll-archives", "~> 2.2"
