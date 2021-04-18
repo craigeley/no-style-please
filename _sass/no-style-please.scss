@@ -36,6 +36,12 @@ body {
   min-height: 100%;
 }
 
+.back {
+  cursor:pointer;
+  color:blue;
+  text-decoration:underline;
+}
+
 .post-meta { text-align: right; }
 
 h1, h2, h3, h4, h5, h6 { 
