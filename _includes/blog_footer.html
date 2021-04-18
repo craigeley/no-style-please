@@ -1,0 +1,16 @@
+<hr>
+{%- if page.tags.size > 0 -%}
+    Read more posts tagged 
+    {%- for tagName in page.tags -%} 
+        {%- capture tags_content -%}
+            {%- if forloop.last == false -%}
+                {{ tags_content }} <a href='/tag/{{ tagName }}'>{{ tagName }},</a> 
+            {%- else -%}
+               {{ tags_content }} <a href='/tag/{{ tagName }}'>{{ tagName }}</a> 
+            {%- endif -%}
+        {%- endcapture -%} 
+    {%- endfor -%} 
+ {%- else -%} 
+    {%- assign tags_content = '' -%}
+{%- endif -%} 
+{{ tags_content }}
