@@ -19,8 +19,7 @@ I have been fascinated with the Folkways Science Series for years, so needless t
 
 So we struck up a conversation. As is often the case, I had to explain that my interest in Folkways actually had very little to do with folk music. Brian nodded politely, because he is a decent person, but he also seemed genuinely interested. He asked me to be a guest on his radio show, to talk about the non-folk music of Folkways records.
 
-<audio style="width:90%" controls="" src="http://field-noise-assets.s3-us-east-2.amazonaws.com/76248470-43d8-467b-a7e2-79c8303da65f.mp3"> 
-Can’t see the player? <a href="https://tinyletter.com/fieldnoise/archive"> Listen online.</a>
+<audio style="width:90%" controls="" src="http://field-noise-assets.s3-us-east-2.amazonaws.com/science-series-interview.mp3"> 
 </audio>
 
 So I did that. I talked about some of my favorites from the series, and Brian edited in example sound clips. You can hear the audio in the player above, but if you want to do some further sonic exploration, here are Spotify links to the records we talked about:
@@ -38,5 +37,3 @@ So I did that. I talked about some of my favorites from the series, and Brian ed
 -   *[Sounds of a Tropical Rain Forest in America](https://open.spotify.com/album/7He5iaq6gpKKyoGwma4dy1?si=9lxRMZGQQVqLZ4vXWU15Rg)*, and [another link to the article](https://folkways.si.edu/magazine-fall-winter-2012-when-rains-pours-sounds-tropical-rain-forest-america-birth-science-series/nature-world/music/article/smithsonian) I wrote about this record.
 
 Let me know what you think---and if you have any old and weird environmental records or demonstration discs lying around. I'm always up for hearing and learning more.
-
-*[Originally published on Substack](https://fieldnoise.substack.com/p/the-sound-of-science-an-interview)*

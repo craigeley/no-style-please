@@ -43,7 +43,7 @@ Sara left TTBOOK to join the New Yorker Radio Hour in 2015, and for a while ther
 
 I'm a Pittsburgher, so once you say "Fred Rogers" you can generally count me in. I was actually skeptical about this show based solely on its title, but it's a *deep* 10-episode series about who Mr. Rogers was and what his life and work can tell us today. Once again, the editing is spot-on, especially on the tearjerking 4th episode, "[Beth](https://www.fatherly.com/uncategorized/finding-fred-episode-4-fred-rogers-podcast/)." Maybe Sara is just good at making me cry?
 
-Find Sara on Twitter at [\@saranics](https://twitter.com/saranics).
+Find Sara on Twitter at [@saranics](https://twitter.com/saranics).
 
 #### Anne Strainchamps, Host / Producer
 
@@ -56,8 +56,5 @@ I think for a lot of listeners, the host of any particular radio show *is* the s
 
 One of the easiest things to do is to make fun of people younger than you for having "big ideas" or wanting to change the world. But this interview highlights just how empathetic Anne can be as an interviewer. She takes 17-year-old Lydia Hester seriously without pandering or being condescending. Now Anne can tackle "big ideas" with the best of them, but this interview is a beautiful demonstration on how interviewers also need to be good listeners.
 
-Find Anne on Twitter at [\@strainchamps](https://twitter.com/strainchamps?lang=en).
+Find Anne on Twitter at [@strainchamps](https://twitter.com/strainchamps?lang=en).
 
-Thanks for reading and listening---and please pass this along to a friend if you think they might dig it. This weird time has made me more committed to listening and writing and sharing, so expect more from me soon. And feel free to write back and let me know what you think!
-
--Craig

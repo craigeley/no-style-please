@@ -4,19 +4,18 @@ category: blog
 title: "Seventy Years of Listening Underwater"
 tags: audio underwater whalesong
 ---
-<audio controls="" style="width:100%" src="http://field-noise-assets.s3-us-east-2.amazonaws.com/Roger-Payne-Songs-of-a-Humpback-Whale-Field-Noise-Remix-.mp3"> 
-Can’t see the player? <a href="https://tinyletter.com/fieldnoise/archive"> Listen online.</a>
+<audio controls="" style="width:100%" src="http://field-noise-assets.s3-us-east-2.amazonaws.com/payne-humback-remix.mp3"> 
 </audio>
 
 > The above audio is a "remix" of a [1979 version](https://www.youtube.com/watch?v=0WOjJIynHgM&t=324s&ab_channel=CletusHunnicutt) of Roger Payne's Songs of the Humpback Whale that was pressed onto a "[Flexi disc](https://en.wikipedia.org/wiki/Flexi_disc#/media/File:FloppyRom_Magazine.jpg)" and accompanied an essay he wrote in National Geographic magazine. I edited excerpts from that recording with additional whale songs, sound effects, and music from [Blue Dot Sessions](https://sessions.blue/). This week's newsletter is a deep dive (that's right) into whale songs and other other underwater recordings.
 
-![](http://field-noise-assets.s3-us-east-2.amazonaws.com/R-7108361-1433916500-6912.jpg)
+![](http://field-noise-assets.s3-us-east-2.amazonaws.com/payne-songs-album-art.jpg)
 
 2020 marks the 50th anniversary of *Songs of the Humpback Whale*, an album that gives listeners exactly what the title promises: underwater recordings of whales. It was an unlikely hit, especially on college campuses, and brought the haunting and beautiful cries of these ocean mammals into living rooms and dorm rooms across the country. To this day, even though I have heard it dozens of time, it's still hard to believe that the sounds are real.
 
 There are many fascinating stories around *Songs*, but I have always been interested in how this record---and other recordings made with underwater microphones called hydrophones---completely shattered the notion that the sea was silent. Renowned oceanographer Jacques Cousteau made that idea his entire brand; his landmark 1952 underwater documentary was called *Le Monde du Silence*, The Silent World. 
 
-![](http://field-noise-assets.s3-us-east-2.amazonaws.com/MV5BY2Y4Zjc0YTYtMGYwMy00ZjYzLTk5Y2EtMTdjMGUwOTgwMTY1L2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg-._V1_.jpg)
+![](http://field-noise-assets.s3-us-east-2.amazonaws.com/payne-silent-world.jpg)
 
 But now there was strong evidence otherwise. In the middle of the twentieth century, the ocean went from being silent to being a vast switchboard or concert hall, where important communications and otherworldly music reverberated just outside of human earshot.
 
@@ -28,17 +27,17 @@ In the liner notes for the album, C.W. Coates writes, "to think of fishes making
 
 So Jacques Cousteau was pissed. In his 1953 book, also called *The Silent World*, he railed against these recordings as fundamentally unnatural, not representative of the way a human being actually experiences the underwater soundscape:
 
-> \"The sea is a most silent world. I say this deliberately on long accumulated evidence and aware that wide publicity has recently been made on the noises of the sea. Hydrophones have recorded clamors that have been sold as phonographic curiosa, but the recordings have been grossly amplified. It is not the reality of the sea as we know it with naked ears. There are noises underwater, very interesting ones that the sea transmits exceptionally well, but divers do not hear boiler factories.\"
+>"The sea is a most silent world. I say this deliberately on long accumulated evidence and aware that wide publicity has recently been made on the noises of the sea. Hydrophones have recorded clamors that have been sold as phonographic curiosa, but the recordings have been grossly amplified. It is not the reality of the sea as we know it with naked ears. There are noises underwater, very interesting ones that the sea transmits exceptionally well, but divers do not hear boiler factories."
 
 Unfortunately for Cousteau, this ship had already sailed. Much of the record-buying public seemed less interested in how these recorded sounds corroborated with human experience than how they corroborated anecdotal, fictional, and mythological stories about hearing odd sounds at sea. For all of their crackle and static, hydrophone recordings deepened the mysteries of ocean sounds that stretch as far back as Homer's sirens. One reviewer wrote, "Recordings of underwater sounds of biological origin would have little meaning if we were content to file them simply as a document of science. Yet when related to the past, they stand for more than this: they stamp with absolute authenticity some of the wildest dreams of our ancestors; they corroborate our prophets; they stand back of our poets."
 
 This sea change (did it!) in our cultural understanding of ocean sounds corresponded with an even broader change in how "nature" records were packaged and sold at this time. Albums like *Sounds of the Sea* reflect a 1950s "scientific" paradigm, where the specifics of the recordings were extremely important. Check out this track listing, filled with species names, depths, and locations:
 
-![](http://field-noise-assets.s3-us-east-2.amazonaws.com/Screen-Shot-2020-09-25-at-1.06.02-PM.png)
+![](http://field-noise-assets.s3-us-east-2.amazonaws.com/payne-sounds-sea-back.png)
 
 But by the end of the 1960s, that model had been almost wholly replaced by things like this:
 
-![](http://field-noise-assets.s3-us-east-2.amazonaws.com/91G8Bgl6CXL._SL1500_.jpg)
+![](http://field-noise-assets.s3-us-east-2.amazonaws.com/payne-environments-front.jpg)
 
 At the bottom of that image you'll see, "Side 1: Psychologically Ultimate Seashore." One track, no location information, very few details. This was the *Environments* series, which collapsed all nature sounds into representative and generic samples: seashore, rainforest, waterfall. The American environmental movement of the 1960s, driven mad by jet engine noise and armed with the new language of ecology, redefined "noise" as a kind of pollution and "quiet" as a natural resource and even a human right. The result was a notion of nature that was both ecological but also profoundly individual to the point of being interior and psychological. Also, as it turned out, records like this sounded even better if you were on drugs.
 
