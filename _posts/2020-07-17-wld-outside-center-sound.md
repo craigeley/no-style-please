@@ -1,23 +1,18 @@
-# Outside the Center of Sound - Field Noise Transmissions (fieldnoise.substack.com)
-
-<https://fieldnoise.substack.com/p/outside-the-center-of-sound>
-
-## Description
-
-Thoughts on World Listening Day 2020
-
-## Content
-
-Outside the Center of Sound
-===========================
-
+---
+layout: post
+title: 'Outside the Center of Sound: World Listening Day 2020'
+tags: soundscape politics wld
+category: blog
+---
 Tomorrow is [World Listening Day](https://www.worldlisteningproject.org/world-listening-day-2020-the-collective-field/), an event started ten years ago to encourage people to think about their soundscape or sonic environment. There are some formal ways you can participate---like making a recording and uploading it to this great [sound map](https://aporee.org/wld2020/), or tuning in to some remote events being shared on [this Facebook group](https://www.facebook.com/groups/28215489944/?ref=group_header)---but really all you have to do is slow down, take some time to listen, and reflect on what you hear.
 
-[![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F56242b4f-e3b4-489c-8578-9125d493c3a6_2560x953.jpeg)](https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F56242b4f-e3b4-489c-8578-9125d493c3a6_2560x953.jpeg)
+![](http://field-noise-assets.s3-us-east-2.amazonaws.com/wld_2020.jpg)
 
 I went to my first World Listening Day (WLD) event in 2011 and kind of hated it. I was visiting New York from Iowa City to do research at the American Museum of Natural History, which means I was in full "dissertation mode": a combination of wild, insatiable intellectual curiosity and a pervasive distrust for every idea I encountered, including my own. I was inspired and disgusted, convinced of my own genius and filled with self-doubt. I was alone with my thoughts in the big city. I was, fundamentally, a grad student.
 
-So I went to a WLD event happening at NYU in a newly constructed music facility. There were little studios set up as listening rooms and a conference room for talks and performances. The [program for the event](https://fieldnoi.se/3w5) was almost exclusively the presentation of experimental compositions, most of which incorporated field recordings from New York City. There was [a field recording mash-up by Joel Chadabe](https://joelchadabe.net/oneworld1/); a data sonification piece by Andrea Polli; and Aleksei Stevens' "Standing Water: A Soundmap of the Gowanus Canal." Here's a brief excerpt from that:
+So I went to a WLD event happening at NYU in a newly constructed music facility. There were little studios set up as listening rooms and a conference room for talks and performances. The program for the event [pdf link](https://field-noise-assets.s3.us-east-2.amazonaws.com/wld-nyu-2011.pdf) was almost exclusively the presentation of experimental compositions, most of which incorporated field recordings from New York City. There was [a field recording mash-up by Joel Chadabe](https://joelchadabe.net/oneworld1/); a data sonification piece by Andrea Polli; and Aleksei Stevens' "Standing Water: A Soundmap of the Gowanus Canal." Here's a brief excerpt from that:
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/319677018&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/aleksei-stevens" title="Aleksei Stevens" target="_blank" style="color: #cccccc; text-decoration: none;">Aleksei Stevens</a> · <a href="https://soundcloud.com/aleksei-stevens/standingwater-excerpt" title="Standingwater Excerpt" target="_blank" style="color: #cccccc; text-decoration: none;">Standingwater Excerpt</a></div>
 
 And here's what I wrote about that piece, on a long-dead personal blog:
 
@@ -45,5 +40,3 @@ For this year's WLD, some people are already doing that harder work. Artist and 
 
 These are the kind of connections we need to remember and consider right now---and for a long time to come. However you find your time, space, and position this week, I hope you'll take a minute to stop and listen. Let me know if you do, either here or on Twitter using the hashtag [\#WLD2020](https://twitter.com/hashtag/WLD2020).
 
-Talk soon,\
-Craig
