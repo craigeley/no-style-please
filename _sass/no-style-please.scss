@@ -77,6 +77,8 @@ hr {
   text-align: center;
   border: 0;
   font-family: Inconsolata;
+  font-size: 1.3rem;
+  text-transform: lowercase;
 
   &:before { content: '/////' }
   &:after { content: attr(data-content) '/////' }
