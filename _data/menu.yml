@@ -38,4 +38,4 @@ entries:
         url: https://www.instagram.com/fieldnoise/  
 
   - title: rss
-    url: feed.xml
+    url: /feed/blog.xml
