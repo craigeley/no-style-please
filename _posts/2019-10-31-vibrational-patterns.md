@@ -20,7 +20,7 @@ So I’m in their studio one afternoon, and they start showing me images like th
 
 So I go home and start googling the hell out of it. I find all kinds of things, from oddly poetic demonstrations to insanely produced car commercials. But soon I also came across Carleen Hutchins, who applied Chladni’s technique of vibrating plates to the plates of violins. And while I was saddened to learn that Carleen died in 2009, I was excited to learn that there was a recent biography about her, and that the author of that biography, Quincy Whitney, had already done some radio appearances. I devoured the book, wrote her an email, and the episode took off from there.
 
-You can learn more at the links and resources below and read the full transcript [here](/vibrational-patterns-transcript).
+You can learn more at the links and resources below and read the full transcript [here](/vibrational-patterns-transcript.html).
 
 ---
 {: data-content="the voices"}
