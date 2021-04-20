@@ -1,15 +1,14 @@
 ---
 layout: post
 category: blog
-tags: producers_note
+tags: [producer's note, produced]
 title: "Producer's Notes: Stories About Floods"
 ---
+In late August, 2018, rain and flooding swept through an area of Wisconsin known as the 'Driftless region.' 
 
-## Human Powered Episode 2
+In response, a group of people started gathering stories.
 
-In late August 2018, a flood ravaged this Wisconsin community.
-
-The work was part of the Driftless Writing Center
+There are a lot of lessons in here for how we deal with climate issues, how we do or don't politicize science, etc.t
 
 Every show has a "kill your darlings" moment, and mine was this quote from Tim Hundt:
 

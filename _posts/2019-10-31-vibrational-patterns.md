@@ -3,7 +3,7 @@ layout: post
 category: podcast
 title: "Vibrational Patterns"
 ---
-![](https://www.fieldnoise.com/wp-content/uploads/2018/08/chladni_16_8_500.gif)
+![](http://field-noise-assets.s3-us-east-2.amazonaws.com/vibration-chladni.gif)
 
 <audio controls="" style="width:100%" src="http://media.blubrry.com/field_noise/p/field-noise-assets.s3-us-east-2.amazonaws.com/TlWYrulewVrPjHdS0HpA5TJDItaLhsEsHoZRrddOuDANZUQMRar3AJM6Edome7mGw3y0qt3XmtucIlyRc55BhjHKT5SOJq0iOAbn.mp3"></audio>
 
@@ -20,7 +20,7 @@ So I’m in their studio one afternoon, and they start showing me images like th
 
 So I go home and start googling the hell out of it. I find all kinds of things, from oddly poetic demonstrations to insanely produced car commercials. But soon I also came across Carleen Hutchins, who applied Chladni’s technique of vibrating plates to the plates of violins. And while I was saddened to learn that Carleen died in 2009, I was excited to learn that there was a recent biography about her, and that the author of that biography, Quincy Whitney, had already done some radio appearances. I devoured the book, wrote her an email, and the episode took off from there.
 
-You can learn more at the links and resources below, and you can discuss this episode on Substack.
+You can learn more at the links and resources below and read the full transcript [here](/vibrational-patterns-transcript).
 
 ---
 {: data-content="the voices"}

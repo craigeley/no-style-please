@@ -1,0 +1,31 @@
+---
+layout: post
+title: Every Belly Song Ever
+tags: discography
+category: blog
+---
+My favorite 90s rock band is Belly. They were grungy, poppy, and wonderful, and they only put out two full length albums: 1993's *Star*, a certified goddamn masterpiece, and 1995's *King*, which is very good. They had two hits off of *Star*, one of which was the undeniably catchy "Gepetto":
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SBi676v4Gs4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+I also like a Belly song called "Thief," which was on the soundtrack to the movie *[Tank Girl](https://www.youtube.com/watch?v=mef757ZGUIU)*. And that, I thought, was that: two albums and this other song.
+
+So, this week I was listening to "Thief" and thinking, "this song is just too good to have only been released on the *Tank Girl* soundtrack. A quick Google search---like, this took me two seconds, I can't believe I never did it earlier---took me to the Discogs page of the *[Now They'll Sleep](https://www.discogs.com/Belly-Now-Theyll-Sleep/master/13884)* EP , which has not only "Thief," but also two other songs I hadn't heard before.
+
+This sent me spiraling. It turns out that Belly, in true pre-Napster glory, released a ridiculous number of EPs, CD Maxi Singles, and "remix" records, almost all of which contain at least one original song that didn't make the cut for one of their albums. What makes all of this even more personally perplexing is that many of these songs were collected for their 2002 greatest hits album, which is structured more like an odds 'n'ends collection than a true "greatest hits." In other words, I have been alive for way too long without knowing about these songs. So, some weird part of my brain took over and I made [this spreadsheet](https://docs.google.com/spreadsheets/d/1ZRwr6hnRj0YbWuGgAllqQF1KA2eUtJr4cM8-kibOnCg/edit#gid=0) of what I think is every song Belly released between 1991 and 1996. Please, PLEASE, let me know if I am missing something. Something like "Spaceman," from the *Seal My Fate* EP:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LQguF5_oQyg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Now, it's hard to imagine a band low-key releasing a dozen non-album tracks like this in the streaming era, where every song is playlisted and monetized and YouTubed and where "secret albums" have become the norm. The act of going to a record store to collect every bit of a band's recorded ephemera seems downright quaint, even romantic, but of course, that too was motivated by sales. One-off releases often had "special" and/or "bonus" tracks as a way to make repackaged material more appealing to consumers. This includes putting new songs on greatest hits records---has there ever been a "new" greatest hits song as popular as "[Mary Jane's Last Dance](https://www.youtube.com/watch?v=aowSGxim_O8)"?---to songs that are exclusive to specific formats, like vinyl-only tracks. As I [discovered](https://twitter.com/cwynar/status/952958396755595264), the reason my vinyl copy of Counting Crows' *This Desert Life* is worth so much is because it has "[Baby, I'm a Big Star Now](https://www.youtube.com/watch?v=Jx5Dpmey6dU)" as a bonus track, a song that to this day has never been released in the US on any other format.
+
+So, while it was fun to revisit this kind of 90s nostalgia, I'm still sort of glad to be alive right now, as I was able to, um, "acquire" all of these Belly songs thanks to the good people of the internet.
+
+### Noise in the News
+
+🔔 Researchers in Singapore have developed a window unit that acts like "noise cancelling headphones for your entire apartment." Right now it is unwieldy at best---24 speakers!---but it *sort of* gets the job done. Here is the *[NYT](https://www.nytimes.com/2020/07/11/science/windows-street-noise.html)* [summary](https://www.nytimes.com/2020/07/11/science/windows-street-noise.html) and the [original paper](https://www.nature.com/articles/s41598-020-66563-z). It reminds me a little of a project in "destructive interference" that General Electric did with a bell in Myanmar, a project that was inspired by a [UW--Madison student](https://news.wisc.edu/new-film-proves-students-theory-you-can-unring-a-bell/):
+<iframe width="560" height="315" src="https://www.youtube.com/embed/i1PwC7ViG8A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+🪟 On the other hand, if you *want* to listen to the sound coming in from windows, then click over to [WindowSwap](https://www.window-swap.com/), which is a completely G-rated (promise!) experience of looking out of other people's windows from all over the world. I've spent some time in India, France, and the UK just this morning. These are video recordings, not real-time streams, and not all of them have sound, but the majority do. In "these times," as we must dutifully say, I actually find it a really a wonderful and evocative experience. Thanks to [Marcia Epstein](https://twitter.com/acousticate) for bringing this to my attention.
+
+🧬 I was excited by this headline, which I thought promised some cool inter-cellular sound-making: "[This Ancient Sea Creature Builds Its Body With a Whisper, Not a Scream](https://www.nytimes.com/2020/07/09/science/sea-squirts-embryos.html)." Turns out those were simply sonic metaphors for [cell signaling](https://en.wikipedia.org/wiki/Cell_signaling), a visual process that is studied under a microscope. However, it got me to google "biological sonification" or something like that, and I found a professor turning DNA sequences into very awkward musical phrases. Here is "An auditory display tool for DNA sequence analysis 03":
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6UF1pTmxw1A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
