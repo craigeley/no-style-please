@@ -18,8 +18,6 @@ That last one was featured in the second episode of Erica Heilman's "[Our Show](
 
 But going out on little solo recording expeditions was primarily self-care, not my actual job. This year I collaborated with a bunch of folks to help them get sounds out into the world. Here are some of my favorites, in no particular order.
 
-<form style="border:1px solid #ccc;padding:3px;text-align:center;" action="https://tinyletter.com/fieldnoise" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/fieldnoise', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true"><p><label for="tlemail">Subscribe to the newsletter</label></p><p><input type="text" style="width:140px" name="email" id="tlemail" /></p><input type="hidden" value="1" name="embed"/><input type="submit" value="Subscribe" /><p><a href="https://tinyletter.com" target="_blank">powered by TinyLetter</a></p></form>
-
 ### Let's Do This, *Leave a Message* episodes
 
 I started lightly editing and mixing this show back in October 2019, and it\'s a fun and funny project---just two very good friends, Margaret and Andrea, riffing on the mic (yes, a single mic) sometimes with a guest thrown into the mix. Margaret was our birth doula, so after helping to bring my child into world, of course I had to help her launch her podcast. Plus we came up with the title "podcast doula," which is hilarious and ALL MINE. You can't have it.
