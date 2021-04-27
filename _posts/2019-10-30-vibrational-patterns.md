@@ -2,12 +2,19 @@
 layout: post
 category: podcast
 title: "Vibrational Patterns"
+type: "full"
+season: 1
+episode: 1
+explicit: "false"
+duration: "30:58"
+length: "40503159"
+guid: "cefn20191031"
+description: "Carleen Hutchins wasn’t formally trained in violinmaking, but despite that—or because of it—she changed the profession forever. With handfuls of Christmas glitter and a 150-year-old technique, she was able to visualize the vibrations of violin plates, allowing luthiers to rely to on the principles of acoustics instead of just “feel.” Traditionalists were outraged, but Carleen didn’t seem to mind. She had already spent most of her adult life pushing back on the constraints imposed on women in midcentury America. This episode explores Carleen’s life and legacy, the history of acoustics, the act of making sound visible, and our obsession with old Italian violins. To learn more about this episode visit [the show page](https://blog.fieldnoise.com/vibrational-patterns.html)"
+file: http://media.blubrry.com/field_noise/field-noise-assets.s3-us-east-2.amazonaws.com/TlWYrulewVrPjHdS0HpA5TJDItaLhsEsHoZRrddOuDANZUQMRar3AJM6Edome7mGw3y0qt3XmtucIlyRc55BhjHKT5SOJq0iOAbn.mp3
 ---
-![](http://field-noise-assets.s3-us-east-2.amazonaws.com/vibration-chladni.gif)
+<iframe src="https://open.spotify.com/embed-podcast/episode/73FSrmjOkI3NR66vmfF0hh" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
-<audio controls="" style="width:100%" src="http://media.blubrry.com/field_noise/p/field-noise-assets.s3-us-east-2.amazonaws.com/TlWYrulewVrPjHdS0HpA5TJDItaLhsEsHoZRrddOuDANZUQMRar3AJM6Edome7mGw3y0qt3XmtucIlyRc55BhjHKT5SOJq0iOAbn.mp3"></audio>
-
-Subscribe in | [Apple](https://pod.link/fieldnoise.apple) | [Spotify](https://pod.link/fieldnoise.spotify) | [Google](https://pod.link/fieldnoise.google) | [Overcast](https://pod.link/fieldnoise.overcast) | [More](https://pod.link/fieldnoise)
+Listen | [Apple](https://pod.link/fieldnoise.apple) | [Spotify](https://pod.link/fieldnoise.spotify) | [Google](https://pod.link/fieldnoise.google) | [More](https://pod.link/fieldnoise)
 
 Carleen Hutchins wasn’t formally trained in violinmaking, but despite that—or because of it—she changed the profession forever. With handfuls of Christmas glitter and a 150-year-old technique, she was able to visualize the vibrations of violin plates, allowing luthiers to rely to on the principles of acoustics instead of just “feel.” Traditionalists were outraged, but Carleen didn’t seem to mind. She had already spent most of her adult life pushing back on the constraints imposed on women in midcentury America. This episode explores Carleen’s life and legacy, the history of acoustics, the act of making sound visible, and our obsession with old Italian violins.
 
@@ -47,7 +54,7 @@ You can learn more at the links and resources below and read the full transcript
 - Joseph Curtin, “Listener Evaluations of New and Old Violins,” PNAS, May 2017
 - Joseph Curtin, “Carleen Hutchins Remembered,” The Strad, November 2009
 
-Subscribe in | [Apple](https://pod.link/fieldnoise.apple) | [Spotify](https://pod.link/fieldnoise.spotify) | [Google](https://pod.link/fieldnoise.google) | [Overcast](https://pod.link/fieldnoise.overcast) | [More](https://pod.link/fieldnoise)
+Listen | [Apple](https://pod.link/fieldnoise.apple) | [Spotify](https://pod.link/fieldnoise.spotify) | [Google](https://pod.link/fieldnoise.google) | [More](https://pod.link/fieldnoise)
 
 
 

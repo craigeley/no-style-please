@@ -34,7 +34,7 @@ Elsewhere around the internet, a few things worth spending some time with:
 🎧 I updated the Field Mix last month with ten fresh tracks from the likes of Mary Lattimore, Sam Prekop, Kelsey Lu, and The Japanese House. You can listen on [Spotify](https://open.spotify.com/playlist/3k9aJixjAeqhMLkZ2PonQS?si=HGVnZifUTt6wNpL4i7jhyw) or [Apple Music](https://music.apple.com/us/playlist/field-noise-vol-9/pl.u-r2yB16XCxMrbg), and the entire mix archive---now over 5 hours long---is on [Spotify](https://open.spotify.com/playlist/36R4gNPOIoNaRSYm9T0Smm?si=xfF_uHzDQZ6p5cHAEGOsAQ).
 
 🎵 Thanks to Matthew Schipper of the [Deep Voices newsletter](https://deepvoices.substack.com/) (highly recommended), I learned about "Icy Lake," a mid-90s club hit based around a cheeky yet unsettling answering machine sample. It's worth spending 12 minutes to watch [this documentary](https://youtu.be/xxi8kbgxxcI) about the track, which was popular in the NYC drag and vogue scene.
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xxi8kbgxxcI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="90%" height="315" src="https://www.youtube.com/embed/xxi8kbgxxcI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 💾 Back in August, [Jenzia Burgos](https://twitter.com/jenziaburgos) published the Black Music History Library, an online archive filled with resources on Black music organized by genre. I just found out about it, but [it looks like a great resource](https://blackmusiclibrary.com/Library).
 
