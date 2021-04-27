@@ -1,12 +1,16 @@
 title: Field Noise # name of the site
 author: Craig Eley # name of site's author
 email: craig@fieldnoise.com # email of site's author
-url: http://fieldnoise.com # root address of the site
+url: https://fieldnoise.com # root address of the site
 baseurl: "" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
   Field Noise is the online home for the writing and audio production work of Craig Eley.
 
 permalink: /:slug.html
+lang: en-us
+
+# Google Analytics
+google_analytics: UA-132535235-1
 
 favicon: "logo.png" # name+extension of favicon (which must be put on the root folder)
 # goat_counter: "yoursitename" # put your GoatCounter name if you want to use GoatCounter analytics
@@ -26,10 +30,20 @@ sass:
 feed:
   categories:
     - blog
+    
+twitter:
+  username: craigeley
+  card: summary
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /assets/fn_itunes_artwork.png
   
 username: noise@fieldnoise.com
 server_url: ftp.fieldnoise.com
-remote_dir: /public_html/blog2021
+remote_dir: /public_html/
 
 jekyll-archives:
   enabled:
@@ -42,8 +56,17 @@ jekyll-archives:
     tag: '/tag/:name/'
     category: '/category/:name/'
 
+podcast:
+  description: "Stories from the audible world."
+  artwork: '/assets/fn_itunes_artwork.png'
+  explicit: "false"
+  audio_type: "audio/mpeg"
+  show_type: "episodic" 
+  
+
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-ftp
   - jekyll-archives
+  - jekyll-target-blank

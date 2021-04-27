@@ -7,3 +7,5 @@ gem "jekyll-ftp", "~> 0.2.0"
 
 gem "jekyll-archives", "~> 2.2"
 
+
+gem "jekyll-target-blank", "~> 2.0"
