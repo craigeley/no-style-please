@@ -2,7 +2,7 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: Writing
+  - title: writing
     url: writing.html
     post_list:
       category: blog
@@ -29,8 +29,8 @@ entries:
       show_more_text: Listen more...
       show_more_url: podcast.html
   
-  - title: About
-    url: about
+  - title: about
+    url: about.html
     entries:
       - title: Twitter
         url: https://twitter.com/craigeley
