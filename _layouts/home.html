@@ -11,3 +11,14 @@ layout: default
 {%-include menu_item.html collection=site.data.menu.entries-%}
 
 {{ content }}
+
+<script>
+var pageInfo = {
+	article: false,
+	post_id: "{{ page.slug }}",
+	post_type: "home",
+	url: window.location.href
+};
+
+window.pico('visit', pageInfo);
+</script>
