@@ -19,14 +19,4 @@ layout: default
 {%- endfor -%}
 </ul>
 
-<script>
-var pageInfo = {
-	article: false,
-	post_id: "{{ page.slug }}",
-	post_type: "category",
-	taxonomies: { tags: [{{ page.title }}]},
-	url: window.location.href
-};
-
-window.pico('visit', pageInfo);
-</script>
+{%-include pico_footer.html-%}

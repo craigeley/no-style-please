@@ -6,11 +6,13 @@
             {%- if forloop.last == false -%}
                 {{ tags_content }} <a href='/tag/{{ tagName }}'>{{ tagName }},</a> 
             {%- else -%}
-               {{ tags_content }} <a href='/tag/{{ tagName }}'>{{ tagName }}</a> 
+               {{ tags_content }} <a href='/tag/{{ tagName }}'>{{ tagName }}</a> ///  
             {%- endif -%}
         {%- endcapture -%} 
     {%- endfor -%} 
 {{ tags_content }}
+
+<button name="button" class="PicoPopup_ab3nd875">leave a tip</button>
 
 {%- for tagName in page.tags -%} 
 		{%- capture tags_meta -%}

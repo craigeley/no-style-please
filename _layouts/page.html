@@ -8,13 +8,4 @@ layout: default
 
 {{ content }}
 
-<script>
-var pageInfo = {
-	article: false,
-	post_id: "{{ page.slug }}",
-	post_type: "page",
-	url: window.location.href
-};
-
-window.pico('visit', pageInfo);
-</script>
+{%-include pico_footer.html-%}

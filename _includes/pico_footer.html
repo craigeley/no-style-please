@@ -1,0 +1,11 @@
+<script>
+var pageInfo = {
+	article: true,
+	post_id: "{{ page.slug }}",
+	post_type: "post",
+	taxonomies: { tags: [{{ tags_meta }}]},
+	url: window.location.href
+};
+
+window.pico('visit', pageInfo);
+</script>
