@@ -17,6 +17,9 @@
   iframe {
     filter: invert(1);
   }
+  #pico_prompt, #pico_header {
+  	filter: invert(1);
+  }
 }
 
 body[a="dark"] { @include dark-appearance; }
