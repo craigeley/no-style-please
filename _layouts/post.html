@@ -10,10 +10,12 @@ layout: default
   </p>
   
   <h1>{{ page.title }}</h1>
-
+  <div id="pico">
   {{ content }}
-  
+  </div>
 {% if page.category == "blog" %}
   {%-include blog_footer.html-%}
+{% else %}
+   {%-include pico_footer.html-%}
 {% endif %}
 </article>

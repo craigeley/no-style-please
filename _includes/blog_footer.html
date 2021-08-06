@@ -6,11 +6,35 @@
             {%- if forloop.last == false -%}
                 {{ tags_content }} <a href='/tag/{{ tagName }}'>{{ tagName }},</a> 
             {%- else -%}
-               {{ tags_content }} <a href='/tag/{{ tagName }}'>{{ tagName }}</a> 
+               {{ tags_content }} <a href='/tag/{{ tagName }}'>{{ tagName }}</a> ///  
             {%- endif -%}
         {%- endcapture -%} 
     {%- endfor -%} 
- {%- else -%} 
-    {%- assign tags_content = '' -%}
-{%- endif -%} 
 {{ tags_content }}
+
+<button name="button" class="PicoPopup_ab3nd875">leave a tip</button>
+
+{%- for tagName in page.tags -%} 
+		{%- capture tags_meta -%}
+				{%- if forloop.last == false -%}
+						{{ tags_meta }} "{{ tagName }}",
+				{%- else -%}
+					 {{ tags_meta }} "{{ tagName }}"
+				{%- endif -%}
+		{%- endcapture -%} 
+	{%- endfor -%} 
+ {%- else -%} 
+    {%- assign tags_meta = "safe" -%}
+{%- endif -%} 
+
+<script>
+var pageInfo = {
+	article: true,
+	post_id: "{{ page.slug }}",
+	post_type: "post",
+	taxonomies: { tags: [{{ tags_meta }}]},
+	url: window.location.href
+};
+
+window.pico('visit', pageInfo);
+</script>
