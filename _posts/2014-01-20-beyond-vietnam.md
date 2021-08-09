@@ -2,10 +2,9 @@
 layout: post 
 title: Beyond Vietnam 
 date: '2014-01-20T10:02:00-05:00' 
-tags: 
-- quotes 
-- tumblr
+tags: [quotes, tumblr]
 category: blog
+description: MLK on the Vietnam war
 ---
 
 > "A nation that continues year after year to spend more money on military defense than on programs of social uplift is approaching spiritual death." 

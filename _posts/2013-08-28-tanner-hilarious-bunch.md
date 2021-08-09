@@ -2,11 +2,9 @@
 layout: post 
 title: The Ghost Bird
 date: '2013-08-28T11:14:51-04:00' 
-tags: 
-- field recording 
-- archive 
-- tumblr
+tags: [field recording, archive, tumblr]
 category: blog
+description: A diary excerpt from the last person to see an Ivory-Billed Woodpecker
 --- 
 > "We were a hilarious bunch on the way back, not believing our good fortune, pitying Paul who had stayed behind, discussing how to keep it quiet."
 
