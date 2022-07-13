@@ -4,7 +4,7 @@ email: craig@fieldnoise.com # email of site's author
 url: https://fieldnoise.com # root address of the site
 baseurl: "" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
-  Field Noise is the online home for the writing and audio production work of Craig Eley.
+  Field Noise is the online home for the audio production work of Craig Eley.
 
 permalink: /:slug.html
 lang: en-us

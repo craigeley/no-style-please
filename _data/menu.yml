@@ -11,23 +11,23 @@ entries:
       show_more_text: See more...
       show_more_url: soundworks.html
       
-  - title: blog
-    url: writing.html
-    post_list:
-      category: blog
-      limit: 2
-      show_more: true
-      show_more_text: Read more...
-      show_more_url: writing.html
-
-  - title: podcast
-    url: podcast.html
-    post_list:
-      category: podcast
-      limit: 2
-      show_more: true
-      show_more_text: Listen more...
-      show_more_url: podcast.html
+#  - title: blog
+#    url: writing.html
+#    post_list:
+#      category: blog
+#      limit: 2
+#      show_more: true
+#      show_more_text: Read more...
+#      show_more_url: writing.html
+#
+#  - title: podcast
+#    url: podcast.html
+#    post_list:
+#      category: podcast
+#      limit: 2
+#      show_more: true
+#      show_more_text: Listen more...
+#      show_more_url: podcast.html
   
   - title: about
     url: /about
@@ -37,5 +37,5 @@ entries:
       - title: Instagram
         url: https://www.instagram.com/fieldnoise/  
 
-  - title: rss
-    url: /feed/blog.xml
+#  - title: rss
+#    url: /feed/blog.xml
