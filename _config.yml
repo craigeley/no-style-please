@@ -40,10 +40,7 @@ defaults:
       path: ""
     values:
       image: /assets/fn_itunes_artwork.png
-  
-username: noise@fieldnoise.com
-server_url: ftp.fieldnoise.com
-remote_dir: /public_html/
+
 
 jekyll-archives:
   enabled:
@@ -67,6 +64,6 @@ podcast:
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-  - jekyll-ftp
   - jekyll-archives
   - jekyll-target-blank
+  - jekyll-redirect-from
